@@ -1,10 +1,11 @@
 
-#phpipam #network #monitoring #subnets #linux #ubuntu  #home_lab #securitasis
+# Secure Deployment of phpIPAM on Ubuntu with Remote MySQL
 
 ## **Document Information**
 
 - **Title:** Secure Deployment of phpIPAM on Ubuntu with Remote MySQL
-- **Author:** @securitasis [Jerry P. Collins, Jr.]
+- **File Name:** phpipam_deploy.md
+- **Author:** [**Jerry P. Collins, Jr. \[@securitasis\]**](https://github.com/securitasis)
 - **Version:** 1.0
 - **Last Updated:** 2025-02-23
 - **Purpose:** 
